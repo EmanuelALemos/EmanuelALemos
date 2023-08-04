@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎓 Estudante de Engenharia de Software <br>📚 Aprendendo, crescendo e compartilhando conhecimento.<br>💻 Apaixonado por inovação.<br>🌐 Explorando o mundo do desenvolvimento de softwares.<br>🤝 Aberto a colaborações e projetos.<br>🔍 Conheça meus projetos no GitHub! 
 
 
